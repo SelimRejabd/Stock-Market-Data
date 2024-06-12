@@ -20,11 +20,11 @@ This repository contains the source code for the Janata WiFi Task backend projec
 
 1. Access the application at `http://localhost:8000/`
 2. Get stocks data from Json file `api/stocks/`
-3. Get stocks data from database `api/stock-data/`
-4. Get single stock data from database `api/stock-data/<int:pk>/`
-4. Add new stock data `api/stock-data/add/`
-5. Edit stock data `api/stock-data/update/<int:pk>/`
-6. Delete stock data `api/stock-data/delete/<int:pk>/`
+3. Get stocks data from database `api/stocks-data/`
+4. Get single stock data from database `api/stocks-data/<int:pk>/`
+4. Add new stock data `api/stocks-data/add/`
+5. Edit stock data `api/stocks-data/update/<int:pk>/`
+6. Delete stock data `api/stocks-data/delete/<int:pk>/`
 
 
 ## Contributing
